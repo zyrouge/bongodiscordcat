@@ -1,4 +1,4 @@
-# BongoDiscordCat
+# BongoDiscordCat (Bongo Cat#1810)
 A Simple Discord Bot!
 
 # What is this for?
