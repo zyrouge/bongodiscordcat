@@ -6,8 +6,8 @@ This is a Simple Discord.js Code for Begginers UwU.
 
 # How to Run This?
 Create a `.env` file and add <br>
-`TOKEN=token_goes_here <br>
-YTTOKEN=yt_apiv3_token_goes_here`. <br>
+`TOKEN=token_goes_here`<br>
+`YTTOKEN=yt_apiv3_token_goes_here`. <br>
 Then the Bot will be Online!
 
 # Official Bot Invite
