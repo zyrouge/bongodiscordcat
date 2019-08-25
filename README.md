@@ -5,9 +5,9 @@ A Simple Discord Bot! This Repo is for U OwO
 This is a Simple Discord.js Code for Begginers UwU.
 
 # How to Run This?
-Create a `.env` file and add 
+Create a `.env` file and add <br>
 `TOKEN=token_goes_here
-YTTOKEN=yt_apiv3_token_goes_here`.
+YTTOKEN=yt_apiv3_token_goes_here`. <br>
 Then the Bot will be Online!
 
 # Official Bot Invite
