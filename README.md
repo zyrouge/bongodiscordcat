@@ -5,7 +5,7 @@ A Simple Discord Bot! This Repo is for U OwO
 This is a Simple Discord.js Code for Begginers UwU.
 
 # How to Run This?
-Change `DOTenv` to `.env` file and add the Credentials,
+Rename `DOTenv` to `.env` file and add the Credentials,
 Then the Bot will be Online!
 
 # Official Bot Invite
