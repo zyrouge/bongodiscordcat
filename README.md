@@ -9,8 +9,7 @@ Rename `DOTenv` to `.env` file, `config.json.example` to `config.json` and add t
 Then run the Bot will be Online!
 
 # Official Bot Invite
- > https://discordapp.com/api/oauth2/authorize?client_id=614476694853779457&permissions=2146958847&scope=bot
- <br>
+ > https://discordapp.com/api/oauth2/authorize?client_id=614476694853779457&permissions=2146958847&scope=bot <br>
  > https://bongodiscordcat.glitch.me/
  
  # Created by **ZYROUGE#0950**
