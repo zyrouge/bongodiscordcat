@@ -3,3 +3,8 @@
    message.channel.send(`:ping_pong: Bongo Pong! **${bongo.ping}ms!**`);
 
 };
+
+exports.help = {
+  name: "ping",
+  aliases: []
+}
