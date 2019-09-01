@@ -1,0 +1,8 @@
+/.env
+/config.json
+/data
+/database.sqlite
+/scores.sqlite
+/scores.sqlite-shm
+/scores.sqlite-wal
+/json.sqlite

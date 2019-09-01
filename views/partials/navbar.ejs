@@ -1,0 +1,17 @@
+<div class="navbar">
+    <a href="/"><%- pageTitle %></a>
+
+  
+    <div class="right">
+        <% if (user) { %>
+            <a href="/me"><%- user.tag %></a>
+            <a href="/commands">Commands</a>
+            <a href="https://discordapp.com/oauth2/authorize?client_id=614476694853779457&permissions=2146958847&redirect_uri=https%3A%2F%2Fbongodiscordcat.glitch.me&response_type=code&scope=bot%20guilds.join">Invite</a>
+            <a href="/authorize/logout">Logout</a>
+        <% } else { %>
+            <a href="/authorize">Login</a>
+            <a href="https://discordapp.com/oauth2/authorize?client_id=614476694853779457&permissions=2146958847&redirect_uri=https%3A%2F%2Fbongodiscordcat.glitch.me&response_type=code&scope=bot%20guilds.join">Invite</a>
+            <a href="/commands">Commands</a>
+        <% } %>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+{
+    "ownerID":"Bot Owner ID",
+    "port": 3000,
+    "clientId": "Bot ID",
+    "clientSecret": "Bot Secret",
+    "scopes": ["identify", "guilds"],
+    "redirectUri": "https://projectname.glitch.me/authorize/callback",
+    "version": "0.000001"
+}
