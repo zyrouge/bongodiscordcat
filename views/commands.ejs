@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title><%- pageTitle %></title>
+
+    <link rel="shortcut icon" href="https://cdn.glitch.com/221a0af6-6816-4910-8a4a-306d1a40ec04%2Fbongo.png?v=1567258080966" />
+    <link rel="stylesheet" type="text/css" href="/stylesheet.css">
+</head>
+<body>
+    <%- include('partials/navbar.ejs') %>
+
+    <div class="page-content">
+        <h1>All Commands</h1> <p>Default Prefix - <b>b!</b></p>
+      <h2>Moderation</h2>
+      <p>
+        <b>Kick</b> - Kicks the User from the Server. <i>Aliases: None</i><br>
+        <b>Ban</b> - Bans the User from the Server. <i>Aliases: None</i><br>
+        <b>Purge</b> - Purges the Message. <i>Aliases: None</i><br>
+        <b>VCKick</b> - Kick a User from from VoiceChannel. <i>Aliases: KickVC</i>
+      </p>
+      <h2>Manager</h2>
+      <p>
+        Soon.
+      </p>
+      <h2>Economy</h2>
+      <p>
+        <b>Balance</b> - Shows your Current Balance. <i>Aliases: bal</i><br>
+        <b>Work</b> - Work to Earn Money. <i>Aliases: None</i><br>
+        <b>Daily</b> - Daily Cash. <i>Aliases: None</i><br>
+        <b>CoinFlip</b> - Flip the Coin for Money. <i>Aliases: flipcoin</i><br>
+        <b>Dice</b> - Roll the Dive. <i>Aliases: None</i><br>
+        <b>EcoLeaderboard</b> - Server Top 10 Players. <i>Aliases: ecolb</i><br>
+        <b>Transfer</b> - Cah Transfer. <i>Aliases: Share</i>
+      </p>
+      <h2>Leveling</h2>
+      <p>
+        <b>Points</b> - Shows your Current Points. <i>Aliases: level</i><br>
+        <b>Leaderboard</b> - Server Top 10 Players. <i>Aliases: lb</i><br>
+        <b>Give</b> - Give Player Points. <i>Aliases: None</i>
+      </p>
+      <h2>Configuration</h2>
+      <p>
+        <b>SetConfig</b> - Change the Key Value. <i>Aliases: setconf, config</i><br>
+        <b>ShowConfig</b> - Pauses the Current Song. <i>Aliases: showconfig</i>
+      </p>
+      <h2>Music</h2>
+      <p>
+        <b>Play</b> - Gives 10 Songs to select from. <i>Aliases: p</i><br>
+        <b>Pause</b> - Pauses the Current Song. <i>Aliases: pa</i><br>
+        <b>Resume</b> - Resumes the Current Song. <i>Aliases: re</i><br>
+        <b>Queue</b> - Shows the Song List. <i>Aliases: q</i><br>
+        <b>Volume</b> - Sets the Player Volume. <i>Aliases: vol</i><br>
+        <b>NowPlaying</b> - Current Song. <i>Aliases: np</i>
+      </p>
+      <h2>Utility</h2>
+      <p>
+        <b>ServerStats</b> - Sets up Server Stats. <i>Aliases: None</i>
+      </p>
+      <h2>Fun</h2>
+      <p>
+        <b>8Ball</b> - See your 8ball Luck. <i>Aliases: eightball</i>
+      </p>
+      <h2>Misc</h2>
+      <p>
+        <b>Ping</b> - Bot Ping. <i>Aliases: pong</i><br>
+        <b>Help</b> - Help Command. <i>Aliases: None</i><br>
+        <b>Say</b> - Repeat the Sentence. <i>Aliases: None</i><br>
+        <b>Beep</b> - Boop. <i>Aliases: None</i><br>
+        <b>Avatar</b> - User's Avatar. <i>Aliases: None</i><br>
+        <b>Invite</b> - Bot Invitation Link. <i>Aliases: np</i><br>
+        <b>Dashboard</b> - Bot Dashboard Link. <i>Aliases: dsh</i><br>
+        <b>Eval</b> - Evaluate JavaScript Code. <b>[Bot Owner Only]</b><i>Aliases: None</i>
+      </p>
+    </div>
+  <footer>
+		<% include ./partials/footer %>
+	</footer>
+</body>
+</html>
