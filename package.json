@@ -18,7 +18,20 @@
     "node-opus": "^0.3.2",
     "some-random-api": "^1.2.0",
     "enmap": "^5.1.0",
-    "util": "^0.12.1"
+    "util": "^0.12.1",
+    "express-session": "^1.16.1",
+    "form-data": "^2.5.1",
+    "ejs": "^2.6.2",
+    "node-fetch": "^2.6.0",
+    "uid-safe": "^2.1.5",
+    "quick.db": "^6.3.2",
+    "express-force-https": "^1.0.0",
+    "better-sqlite3": "^5.4.2",
+    "discord-economy": "^1.2.2",
+    "sequelize": "^6.0.0",
+    "sqlite3": "^4.1.0",
+    "ms": "^2.1.2",
+    "path": "^0.12.7"
   },
   "engines": {
     "node": "8.x"
