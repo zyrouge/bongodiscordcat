@@ -1,7 +1,7 @@
 # BongoDiscordCat (Bongo Cat#1810)
 A Simple Discord Bot! This Repo is for U OwO <br>
 [![Discord](https://discordapp.com/api/guilds/521008266336141314/widget.png)](https://discordapp.com/invite/8jdDWzk)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzyrouge%2Fbongodiscordcat.svg?type=shield)
+[!FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzyrouge%2Fbongodiscordcat.svg?type=shield)
 
 # What is this for?
 This is a Discord.js Bot UwU.
