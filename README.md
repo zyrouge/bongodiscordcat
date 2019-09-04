@@ -13,6 +13,9 @@ This is a Discord.js Bot UwU.
  
 # Extras
  > [Self-hosting](https://github.com/zyrouge/bongodiscordcat/blob/master/setup.md) <br>
- > [License](https://github.com/zyrouge/bongodiscordcat/blob/master/LICENSE)
+ > [License](https://github.com/zyrouge/bongodiscordcat/blob/master/LICENSE) <br>
+
+ # Fossa Stats
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzyrouge%2Fbongodiscordcat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzyrouge%2Fbongodiscordcat?ref=badge_shield)
 
 # Created by **ZYROUGE#0950**
