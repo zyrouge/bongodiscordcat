@@ -6,4 +6,4 @@
  > • <b>S5</b>: Run `node bongo.js` on Console to see your Bot online.
 
  # Want Help?
- [Join our Support Server](https://discord.gg/8jdDWzk)
+ [Join our Support Server](https://discord.gg/8jdDWzk) or DM me @ **ZYROUGE#0950**
