@@ -4,3 +4,6 @@
  > • <b>S3</b>: Rename and Setup Config, Rename `config.json.example` to `config.json` and put valid Credentials. <br>
  > • <b>S4</b>: Run `npm i --save` on Console to install the necessary packages.<br>
  > • <b>S5</b>: Run `node bongo.js` on Console to see your Bot online.
+
+ # Want Help?
+ [Join our Support Server](https://discord.gg/8jdDWzk)
