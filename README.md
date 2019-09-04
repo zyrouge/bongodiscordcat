@@ -12,6 +12,6 @@ This is a Discord.js Bot UwU.
  > [Bot Stats](https://bongodiscordcat.glitch.me/stats)
  
 # Extras
- > [License]
+ > [License](https://github.com/zyrouge/bongodiscordcat/blob/master/LICENSE)
 
 # Created by **ZYROUGE#0950**
