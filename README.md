@@ -7,8 +7,11 @@ This is a Discord.js Bot UwU.
 
 # Official Bot Invite
  > [Invite](https://discordapp.com/api/oauth2/authorize?client_id=614476694853779457&permissions=2146958847&scope=bot) <br>
- > [Web](https://bongodiscordcat.glitch.me/)
+ > [Web](https://bongodiscordcat.glitch.me/) <br>
+ > [Commands](https://bongodiscordcat.glitch.me/commands) <br>
+ > [Bot Stats](https://bongodiscordcat.glitch.me/stats)
  
 # Extras
+ > [License]
 
 # Created by **ZYROUGE#0950**
