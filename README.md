@@ -10,6 +10,7 @@ This is a Discord.js Bot UwU.
  > [Web](https://bongodiscordcat.glitch.me/) <br>
  > [Commands](https://bongodiscordcat.glitch.me/commands) <br>
  > [Bot Stats](https://bongodiscordcat.glitch.me/stats)
+ > [Community](https://discord.gg/8jdDWzk)
  
 # Extras
  > [Self-hosting](https://github.com/zyrouge/bongodiscordcat/blob/master/setup.md) <br>
