@@ -11,7 +11,7 @@ const session = require('express-session');
 app.set('view engine', 'ejs');
 app.use(express.static('static'));
 app.use(session({
-    secret: '48738924783748273742398747238',
+    secret: '_umm_ok_',
     resave: false,
     saveUninitialized: false,
     expires: 604800000,
