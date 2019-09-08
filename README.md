@@ -15,7 +15,7 @@ This is a Discord.js Bot UwU.
 # Extras
  > [Self-hosting](https://github.com/zyrouge/bongodiscordcat/blob/master/setup.md) <br>
  > [License](https://github.com/zyrouge/bongodiscordcat/blob/master/LICENSE) <br>
- > [Bug Report](https://github.com/zyrouge/bongodiscordcat/issues/new?assignees=&labels=&template=bug_report.md&title=)
+ > [Bug Report](https://github.com/zyrouge/bongodiscordcat/issues/new?assignees=&labels=&template=bug_report.md&title=) <br>
  > [Feature Request](https://github.com/zyrouge/bongodiscordcat/issues/new?assignees=&labels=&template=feature_request.md&title=)
 
 # Created by **ZYROUGE#0950**
