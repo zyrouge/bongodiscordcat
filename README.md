@@ -1,4 +1,5 @@
-# BongoDiscordCat (Bongo Cat#1810) [Deprecated]
+# BongoDiscordCat (Bongo Cat#1810)
+## Deprecated
 A Simple Discord Bot! This Repo is for U OwO <br>
 [![Discord](https://discordapp.com/api/guilds/521008266336141314/widget.png)](https://discordapp.com/invite/8jdDWzk)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzyrouge%2Fbongodiscordcat.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzyrouge%2Fbongodiscordcat?ref=badge_small)
